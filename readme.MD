@@ -1,0 +1,1 @@
+course: https://www.udemy.com/course/selenium-selenide-test-automation-engineer/
