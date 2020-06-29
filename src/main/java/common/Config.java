@@ -17,5 +17,5 @@ public class Config {
     /**
      * To keep the browser open after all scenario/tests
      */
-    public static final Boolean HOLD_BROWSER_OPEN = true;
+    public static final Boolean HOLD_BROWSER_OPEN = false;
 }
