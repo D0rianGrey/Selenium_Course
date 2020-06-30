@@ -1,0 +1,1 @@
+to get allure report just type into terminal - 'mvn allure:report'
